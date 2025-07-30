@@ -127,4 +127,3 @@ namespace GestionContactos
         private void dgvContactos_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
     }
 }
-
