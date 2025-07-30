@@ -1,0 +1,9 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Archivos de compilación
+bin/
+obj/
